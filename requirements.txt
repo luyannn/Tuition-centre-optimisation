@@ -1,0 +1,4 @@
+docplex==2.25.236
+pandas==2.2.2
+matplotlib==3.9.2
+openpyxl==3.1.5
