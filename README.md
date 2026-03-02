@@ -15,3 +15,4 @@ Includes visualisations of tutor workload, preference match breakdown, and the a
 1. Ensure `Interview small data.xlsx`, `requirements.txt` and the notebook are all in the same folder
 2. Open `Tuition_centre_optimisation_problem_code.ipynb` in Jupyter
 3. Run all cells (dependencies are installed automatically in the first cell)
+4. The model uses IBM CPLEX Community Edition. Please ensure it is downloaded before running the notebook
